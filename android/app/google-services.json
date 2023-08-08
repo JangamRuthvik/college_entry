@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "472314911811",
+    "project_id": "outpaist",
+    "storage_bucket": "outpaist.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:472314911811:android:8bf02c994f5fdc790a88f6",
+        "android_client_info": {
+          "package_name": "com.example.college_entry"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "472314911811-5nd8m35vo2ru1vh9onn43rifcc2htngc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3v_moptSiMZ6Cv1y8FjxmYocwER02XHw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "472314911811-5nd8m35vo2ru1vh9onn43rifcc2htngc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
